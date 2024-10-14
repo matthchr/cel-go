@@ -1,4 +1,4 @@
-module github.com/google/cel-go
+module github.com/matthchr/cel-go
 
 go 1.21
 
